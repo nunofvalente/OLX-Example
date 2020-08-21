@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">OLX</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_register">Login/Register</string>
+    <string name="logout">Logout</string>
+    <string name="my_items">My items</string>
+    <string name="title_activity_my_items_activity">MyItems</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="value">Value</string>
+    <string name="call_seller">Call Seller</string>
+    <string name="description">Description</string>
+    <string name="district">District</string>
+    <string name="_50_00">£50.00</string>
+    <string name="title">Title</string>
+
+    <string-array name="estados">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AM</item>
+        <item>AP</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MG</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>TO</item>
+    </string-array>
+
+    <string-array name="categoria">
+        <item>Cars</item>
+        <item>Furniture</item>
+        <item>Electronics</item>
+        <item>Fashion</item>
+        <item>Sports</item>
+        <item>Music</item>
+        <item>Child</item>
+    </string-array>
+</resources>
